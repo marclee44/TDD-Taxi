@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD-Taxi", "TDD-Taxi\TDD-Taxi.csproj", "{F77C42DF-838B-4D51-B586-784F3C9C7A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD-Taxi.Test", "TDD-Taxi.Test\TDD-Taxi.Test.csproj", "{653C0655-C7D1-4014-AFE2-A6FE5F4F200B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77C42DF-838B-4D51-B586-784F3C9C7A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77C42DF-838B-4D51-B586-784F3C9C7A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77C42DF-838B-4D51-B586-784F3C9C7A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77C42DF-838B-4D51-B586-784F3C9C7A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653C0655-C7D1-4014-AFE2-A6FE5F4F200B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653C0655-C7D1-4014-AFE2-A6FE5F4F200B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653C0655-C7D1-4014-AFE2-A6FE5F4F200B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653C0655-C7D1-4014-AFE2-A6FE5F4F200B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F5ADCB8-B159-441B-980F-C37BE79C6A10}
+	EndGlobalSection
+EndGlobal
